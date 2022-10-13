@@ -1,11 +1,10 @@
 ## 🐱 Hi, welcome to my github Uwu and start with
-
 ```lua
 _G.pcall(print, 'hello world')
 ```
 ### About me o(*￣▽￣*)ブ
     A student aged 17 from china, interested in game cheating programming. Mostly code with Python, Lua 
-### Contact me 
+### Contact me 📞
     Discord: icealeximino#2818
     Tencent qq: 1641288
 
