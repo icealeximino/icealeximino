@@ -1,6 +1,8 @@
-'''lua
-_G.pcall(print, 'Hello world')
-'''
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 ### ==============================================
 ### 🐱 Hi, welcome to my github Uwu
 ### Here is a student from china, interested in game cheating programming. Mostly code with Python, Lua and GoLang
