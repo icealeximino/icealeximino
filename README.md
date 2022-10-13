@@ -11,11 +11,9 @@ _G.pcall(print, 'hello world')
 
 ### Contact me 📞
 
-<p>
     Discord: icealeximino#2818
-    </n>
+  
     Tencent qq: 1641288
-</p>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=icealeximino&theme=xcode" /> </div>
 
