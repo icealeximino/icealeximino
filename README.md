@@ -4,12 +4,12 @@
 _G.pcall(print, 'hello world')
 ```
 
-## About me
+## About me o(*￣▽￣*)ブ
 <p>
 A student aged 17 from china, interested in game cheating programming. Mostly code with Python, Lua and GoLang
 </p>
 
-## Connect me
+## Contact me 📞
 
 <p>
 Discord: icealeximino#2818
