@@ -1,5 +1,5 @@
 '''lua
-    _G.pcall(print, 'Hello world')
+_G.pcall(print, 'Hello world')
 '''
 ### ==============================================
 ### 🐱 Hi, welcome to my github Uwu
