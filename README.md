@@ -5,14 +5,11 @@ _G.pcall(print, 'hello world')
 ```
 
 ### About me o(*￣▽￣*)ブ
-<p>
     A student aged 17 from china, interested in game cheating programming. Mostly code with Python, Lua and GoLang
-</p>
 
 ### Contact me 📞
 
     Discord: icealeximino#2818
-  
     Tencent qq: 1641288
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=icealeximino&theme=xcode" /> </div>
