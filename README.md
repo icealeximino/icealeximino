@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://i.pximg.net/img-original/img/2022/10/11/00/00/26/101838662_p0.jpg"> </div>
+<div align="center"> <img src="https://github.com/icealeximino/icealeximino/blob/main/101790864_p0.jpg?raw=true"> </div>
  
