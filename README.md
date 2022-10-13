@@ -1,4 +1,4 @@
-### 🐱 Hi, welcome to my github Uwu and start with
+## 🐱 Hi, welcome to my github Uwu and start with
 
 ```lua
 _G.pcall(print, 'hello world')
@@ -6,6 +6,10 @@ _G.pcall(print, 'hello world')
 
 ## About me
 ### A student aged 17 from china, interested in game cheating programming. Mostly code with Python, Lua and GoLang
+
+## Connect me
+### Discord icealeximino#2818
+### Tencent qq: 1641288
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=icealeximino&theme=xcode" /> </div>
 
