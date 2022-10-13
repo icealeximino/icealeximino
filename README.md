@@ -19,7 +19,7 @@ _G.pcall(print, 'hello world')
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=icealeximino&theme=xcode" /> </div>
 
 
-<details><summary>owo</summary>
+<details><summary>___owo___</summary>
 <p>
     <div align="center"> <img src="https://github.com/icealeximino/icealeximino/blob/main/101790864_p0.jpg?raw=true"> </div>
 </p>
