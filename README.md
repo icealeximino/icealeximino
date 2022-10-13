@@ -2,7 +2,7 @@
     _G.pcall(print, 'Hello world')
 '''
 ### ==============================================
-### Hi, welcome to my github Uwu
+### 🐱 Hi, welcome to my github Uwu
 ### Here is a student from china, interested in game cheating programming. Mostly code with Python, Lua and GoLang
 ### ==============================================
 <!-- <(function() print('hello world') end)()>   -->
