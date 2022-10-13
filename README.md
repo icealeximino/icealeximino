@@ -2,12 +2,11 @@
 _G.pcall(print, 'hello world')
 ```
 
-<details><summary>About Me</summary>
+## About me
 ### ==============================================
 ### 🐱 Hi, welcome to my github Uwu
 ### Here is a student from china, interested in game cheating programming. Mostly code with Python, Lua and GoLang
 ### ==============================================
-</details>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=icealeximino&theme=xcode" /> </div>
 
